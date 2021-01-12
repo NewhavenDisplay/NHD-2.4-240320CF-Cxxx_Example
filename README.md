@@ -11,6 +11,6 @@ Purchase a sample from our Product Pages linked below!
 
 -----> [**NHD-2.4-240320CF-CSXN#-F**](https://www.newhavendisplay.com/nhd24240320cfcsxnf-p-9494.html)   |   [**Datasheet**](https://www.newhavendisplay.com/specs/NHD-2.4-240320CF-CSXN-F.pdf)
 
------> [**NHD-2.4-240320CF-CTXI#-FT**](https://www.newhavendisplay.com/nhd24240320cfcsxnft-p-9495.html)   |   [**Datasheet**](https://www.newhavendisplay.com/specs/NHD-2.4-240320CF-CSXN-FT.pdf)
+-----> [**NHD-2.4-240320CF-CSXN#-FT**](https://www.newhavendisplay.com/nhd24240320cfcsxnft-p-9495.html)   |   [**Datasheet**](https://www.newhavendisplay.com/specs/NHD-2.4-240320CF-CSXN-FT.pdf)
 
 [ST7789Vi Controller](https://www.newhavendisplay.com/resources_dataFiles/datasheets/LCDs/ST7789Vi.pdf)
